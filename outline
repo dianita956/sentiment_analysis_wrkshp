@@ -1,0 +1,23 @@
+sentiment analysis
+1. review text analysis
+ 1.1  NER
+ 1.2 visulization
+
+2. sentiment analysis
+    2.1 introduction
+    why, how, what tools and scripts
+
+3. sentiment
+    tools
+    scripts
+    libraries and packages
+    NLTK 
+    Spacy
+    TextBlob
+    VADER
+
+4. visulization
+    sentiment visulization
+    NER visulization
+    geocoding places
+
