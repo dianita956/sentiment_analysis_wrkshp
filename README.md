@@ -46,5 +46,3 @@ For any questions, contact Diane López, diane.lopez2@utsa.edu
 
 After the workshop, please share your feedback and thoughts. 
    OR click in this link to the survey: https://utsa.az1.qualtrics.com/jfe/form/SV_6yEM1bUoA9T9ZHg?Q_CHL=qr 
-
-![image](https://github.com/user-attachments/assets/9eb463fb-d573-47a7-b2b4-ccee7e267f6b)

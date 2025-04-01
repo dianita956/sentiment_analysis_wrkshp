@@ -1,3 +1,10 @@
 .senti
 SylviaGonzalez_CasaLatina.txt
 logo-primary-b.png
+
+# Ignore data files
+*.csv  
+*.json  
+
+# Ignore checkpoint files
+.ipynb_checkpoints/  
