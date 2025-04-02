@@ -7,6 +7,10 @@
 ### Location: JPL in Group Spot B 
 ### Presentor: Diane López, Information Specialist at UTSA Libraries
 
+[Click here to open the notebook for this workshop](https://mybinder.org/v2/gh/dianita956/sentiment_analysis_wrkshp/HEAD?urlpath=%2Fdoc%2Ftree%2Fsentiment.ipynb)
+
+[Click here to open the notebook in Google Collab](https://colab.research.google.com/github/dianita956/sentiment_analysis_wrkshp/blob/main/sentiment.ipynb)
+
 ## Workshop Goals:
 - Understand basic sentiment libraries and packages
 - Learn the basic structure of sentiment code and functions
@@ -45,4 +49,4 @@
 For any questions, contact Diane López, diane.lopez2@utsa.edu
 
 After the workshop, please share your feedback and thoughts. 
-   OR click in this link to the survey: https://utsa.az1.qualtrics.com/jfe/form/SV_6yEM1bUoA9T9ZHg?Q_CHL=qr 
+Click this link to the survey: https://utsa.az1.qualtrics.com/jfe/form/SV_6yEM1bUoA9T9ZHg?Q_CHL=qr 
