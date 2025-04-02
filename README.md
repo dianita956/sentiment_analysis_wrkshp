@@ -7,6 +7,8 @@
 ### Location: JPL in Group Spot B 
 ### Presentor: Diane López, Information Specialist at UTSA Libraries
 
+[Click here to open the notebook for this workshop](https://mybinder.org/v2/gh/dianita956/sentiment_analysis_wrkshp/HEAD?urlpath=%2Fdoc%2Ftree%2Fsentiment.ipynb)
+
 ## Workshop Goals:
 - Understand basic sentiment libraries and packages
 - Learn the basic structure of sentiment code and functions
